@@ -1,0 +1,12 @@
+
+Der Befehl rails wird immer im Basisordner der Applikation ausgeführt.
+Das Programm Rails ermöglicht auf der Console ausgeeführt eine reihe von Aktionen 
+
+rails new project_name
+	Erstellt ein neues Projekt
+
+rails s
+	startet einen Server, der auf port 3000 lauscht
+
+rails g controller movies
+	erstellt in der app einen Controller mit dem Namen movies_controller.rb
