@@ -10,3 +10,5 @@ rails s
 
 rails g controller movies
 	erstellt in der app einen Controller mit dem Namen movies_controller.rb
+
+rails g model event name:string location:string price:decimal

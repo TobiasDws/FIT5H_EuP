@@ -1,0 +1,14 @@
+events_helper.txt
+
+Es gibt helper sowohl auf der Darstellungsebene (View-Html-Bereich) als auch auf der Logik-ebene im Bereich der Controller.
+
+View-Ebene 
+a. bereitgestellter helper
+Helper, die von den Rails-Enwicklern zur verfügung gestellt werden 
+Links: http:\\api.rubyonrails.org/classes/Actionview/helpers.html
+Beispiel
+	truncat
+	content_tag
+	number_to_currency
+
+b.
